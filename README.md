@@ -1,2 +1,2 @@
-# nesp
+# .nesp
 NextGen NES Emulator
