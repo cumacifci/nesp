@@ -1,4 +1,4 @@
-<img width="720" alt="Ekran görüntüsü 2026-10-31 020949" src="https://github.com/user-attachments/assets/c692f6aa-7e93-4439-80c3-eba315260bc8" />
+<img width="720" alt="Ekran görüntüsü 2026-10-31 020949" src="https://github.com/user-attachments/assets/c692f6aa-7e93-4439-80c3-eba315260bc8" /><br>
 # .nesp
 
 **NextGen NES Emulator** for Windows. Simple, clean, made for gamepads.
