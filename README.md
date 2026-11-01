@@ -39,6 +39,15 @@
   <img src="assets/screenshots.jpg" width="100%" alt="Game library, controller setup, filters and graphics settings">
 </p>
 
+### 🎨 Themes
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="assets/screenshots.jpg" alt="Console Gray theme"><br><b>Console Gray</b></td>
+    <td align="center" width="50%"><img src="assets/screenshots-black.jpg" alt="Black theme"><br><b>Black</b></td>
+  </tr>
+</table>
+
 ## ⬇️ Download
 
 | Version | Description |
