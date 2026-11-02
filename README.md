@@ -98,8 +98,6 @@
 
 Every button can be changed in **Controls**, separately for gamepad and keyboard.
 
-> 🤫 There may be a little secret hidden somewhere for those who know the old codes…
-
 ## ⚠️ Important
 
 Nesp **does not include any games** and does not provide links to download them.
