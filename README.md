@@ -135,5 +135,5 @@ Thank you to everyone who supports Nesp! ❤️
 ---
 
 <p align="center">
-  Made with ☕ by <a href="https://laff.gumroad.com">Laff.Studio</a>
+  Made with ❤️ by <a href="https://instagram.com/respawnoglu">Cuma Çifçi</a>
 </p>
