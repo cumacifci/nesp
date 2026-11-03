@@ -112,7 +112,7 @@ Nesp is an independent project and is not affiliated with, endorsed by or sponso
 
 Nesp is free and will stay free. If you enjoy it, you can support development:
 
-- ☕ [Buy me a coffee on Gumroad](https://laff.gumroad.com/l/nesp-emulator): every coffee helps keep updates coming
+- ☕ [Buy me a coffee on Gumroad](https://cuma.gumroad.com/l/nesp-emulator): every coffee helps keep updates coming
 - ⭐ Star this repository so more people can find Nesp
 - 🐛 [Report a bug or suggest a feature](https://github.com/cumacifci/nesp/issues)
 - 📣 Share Nesp with a friend who misses the good old days
