@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/cumacifci/nesp/releases/latest/download/nesp-win-Setup.exe"><img src="https://img.shields.io/badge/Download-Windows-0266CB?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
-  <a href="https://laff.gumroad.com/l/nesp-emulator"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Buy me a coffee"></a>
+  <a href="https://cuma.gumroad.com/l/nesp-emulator"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
